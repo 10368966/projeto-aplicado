@@ -1,4 +1,4 @@
-![Logo do Mackenzie](https://raw.githubusercontent.com/Rogerio-mack/GCF/main/GCF_files/Mackenzie.jpg){:height="50px" width="50px"}
+<img src="https://github.com/Rogerio-mack/GCF/raw/main/GCF_files/Mackenzie.jpg" width="25%" align="right"/>
 
 # PROJETO APLICADO IV
 
