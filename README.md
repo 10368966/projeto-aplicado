@@ -1,6 +1,4 @@
-Entendi, você quer reduzir o tamanho do logo do Mackenzie. Vou ajustar isso para você:
-
-![Logo do Mackenzie](https://raw.githubusercontent.com/Rogerio-mack/GCF/main/GCF_files/Mackenzie.jpg){:height="100px" width="100px"}
+![Logo do Mackenzie](https://raw.githubusercontent.com/Rogerio-mack/GCF/main/GCF_files/Mackenzie.jpg){:height="50px" width="50px"}
 
 # PROJETO APLICADO IV
 
